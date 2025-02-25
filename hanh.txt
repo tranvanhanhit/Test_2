@@ -1,0 +1,24 @@
+hạnh vui vẻ đẹp trai
+
+10 Lệnh Git CƠ BẢN mà Lập Trình Viên Nên Biết | Học Git & GitHub #2
+https://www.youtube.com/watch?v=z-BDl0SBtgo&t=476s
+
+Git - GitHub • Học Git thực tế để đi làm
+https://www.youtube.com/watch?v=swlrBlriFPE&t=1327s
+
+Tất tần tật về Git trong 10 phút
+https://www.youtube.com/watch?v=gxYajhD2bOE
+
+Tóm tắt toàn diện về việc sử dụng Git và quy trình làm việc của GitFlow và sếp yêu cầu tôi phải học
+https://www.youtube.com/watch?v=vQgcl8VouLU&t=9s
+
+Tôi chưa bao giờ hiểu Git Rebase và Git Merge cho đến khi Sếp giải thích cho tôi như thế này | Git
+https://www.youtube.com/watch?v=l0VtRcPz1ME&t=652s
+
+==================================
+Sử dụng lệnh Git cơ bản. Git add, commit, push,… Và git stash làm việc nhóm dễ dàng hơn | K1ethoang
+https://www.youtube.com/watch?v=Itmy5fTw3xk
+
+
+
+git remote add origin https://github.com/tranvanhanhit/Lession_1.git
